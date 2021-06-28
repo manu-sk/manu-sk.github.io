@@ -15,7 +15,7 @@
       skill_name: Visual Studio
     - class: android-plain
       skill_name: Android Studio
-    - class: jupyter-plain
+    - class: jupyter-original
       skill_name: Jupyter
     
 - name: Operating Systems
@@ -42,14 +42,14 @@
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
-    - class: jenkins-plain
+    - class: jenkins-original
       skill_name: Jenkins
     - class: amazonwebservices-original
       skill_name: AWS
 
 - name: web
   skills:
-    - class: flask-original
+    - class: flask-plain
       skill_name: Flask
     - class: html5-plain
       skill_name: HTML5
