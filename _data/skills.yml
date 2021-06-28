@@ -38,6 +38,8 @@
 
 - name: frontend frameworks
   skills:
+    - class: bootstrap-plain
+      skill_name: BootStrap
     - class: react-plain
       skill_name: React
     - class: angularjs-plain
