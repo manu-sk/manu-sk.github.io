@@ -1,12 +1,12 @@
 - name: Development Tools
   skills:
-    - class: pycharm-original
+    - class: pycharm-plain
       skill_name: PyCharm
     - class: visualstudio-plain
       skill_name: Visual Studio
     - class: android-plain
       skill_name: Android Studio
-    - class: jupyter-plain
+    - class: jupyter-original
       skill_name: Jupyter
     
 - name: Operating Systems
@@ -20,12 +20,12 @@
     
 - name: Technical Skills
   skills:
-      skill_name: Machine Learning
-      skill_name: Deep Learning
-      skill_name: Numpy
-      skill_name: Pandas
-      skill_name: Scikit-Learn
-      skill_name: Federated ML   
+     - skill_name: Machine Learning
+     - skill_name: Deep Learning
+     - skill_name: Numpy
+     - skill_name: Pandas
+     - skill_name: Scikit-Learn
+     - skill_name: Federated ML   
       
 - name: languages
   skills:
@@ -49,7 +49,7 @@
 
 - name: web
   skills:
-    - class: flask-original
+    - class: flask-plain
       skill_name: Flask
     - class: html5-plain
       skill_name: HTML5
@@ -59,13 +59,6 @@
       skill_name: SASS
     - class: bootstrap-plain
       skill_name: Bootstrap
-
-- name: frontend frameworks
-  skills:
-    - class: bootstrap-plain
-      skill_name: BootStrap
-    - class: react-plain
-      skill_name: React
 
 - name: databases
   skills:
