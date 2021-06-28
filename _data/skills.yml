@@ -1,3 +1,12 @@
+- name: Technical Skills
+  skills:
+     - skill_name: Machine Learning
+     - skill_name: Deep Learning
+     - skill_name: Numpy
+     - skill_name: Pandas
+     - skill_name: Scikit-Learn
+     - skill_name: Federated ML 
+     
 - name: Development Tools
   skills:
     - class: pycharm-plain
@@ -6,7 +15,7 @@
       skill_name: Visual Studio
     - class: android-plain
       skill_name: Android Studio
-    - class: jupyter-original
+    - class: jupyter-plain
       skill_name: Jupyter
     
 - name: Operating Systems
@@ -17,16 +26,7 @@
       skill_name: Windows
     - class: ubuntu-plain
       skill_name: Ubuntu
-    
-- name: Technical Skills
-  skills:
-     - skill_name: Machine Learning
-     - skill_name: Deep Learning
-     - skill_name: Numpy
-     - skill_name: Pandas
-     - skill_name: Scikit-Learn
-     - skill_name: Federated ML   
-      
+       
 - name: languages
   skills:
     - class: python-plain
@@ -42,14 +42,14 @@
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
-    - class: jenkins-original
+    - class: jenkins-plain
       skill_name: Jenkins
     - class: amazonwebservices-original
       skill_name: AWS
 
 - name: web
   skills:
-    - class: flask-plain
+    - class: flask-original
       skill_name: Flask
     - class: html5-plain
       skill_name: HTML5
