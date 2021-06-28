@@ -11,6 +11,13 @@
     - class: jquery-plain
       skill_name: jQuery
 
+- name: machine learning
+  skills:
+    - class: machinelearning-plain
+      skill: Machine Learning
+    - class: cloud-plain
+      skill: Cloud Computing    
+      
 - name: languages
   skills:
     - class: javascript-plain
@@ -57,19 +64,19 @@
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
-    - class: heroku-original
-      skill_name: Heroku
+    - class: jenkins-plain
+      skill_name: Jenkins
     - class: docker-plain
       skill_name: Docker
+      class: aws-plain
+      skill_name: AWS
 
 - name: testing
   skills:
-    - class: mocha-plain
-      skill_name: Mocha
-    - class: jasmine-plain
-      skill_name: Jasmine
-    - class: rspec-plain
-      skill_name: RSpec
+    - class: selenium-plain
+      skill_name: Selenium
+    - class: uft-plain
+      skill_name: UFT
 
 - name: mobile
   skills:
