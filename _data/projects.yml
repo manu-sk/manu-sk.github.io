@@ -47,9 +47,9 @@
                   HTML, JavaScript,
                   OpenStack to build storage cloud
                 ]
-  cover: /assets/images/project_covers/cloud.png
+  cover: /assets/images/project_covers/cloud.PNG
   images: [
-    '/assets/images/project_covers/cloud.png'
+    '/assets/images/project_covers/cloud.PNG'
   ]
 # - name: Tic-tac-toe
 #   url: https://dbc-engage-me.herokuapp.com/
