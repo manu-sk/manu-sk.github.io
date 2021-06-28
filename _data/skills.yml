@@ -15,7 +15,7 @@
   skills:
     - class: machinelearning-plain
       skill: Machine Learning
-    - class: cloud-plain
+    - class: googlecloud-plain
       skill: Cloud Computing    
       
 - name: languages
