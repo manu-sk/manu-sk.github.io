@@ -45,7 +45,8 @@
   technologies: [
                   python-plain,
                   cloud-plain,
-                  html5-plain
+                  html5-plain,
+                  machinelearning-plain
                 ]
   cover: /assets/images/project_covers/cloud_cover.png
   images: [
