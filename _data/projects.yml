@@ -46,6 +46,7 @@
                   python-plain,
                   googlecloud-plain,
                   html5-plain,
+                  bootstrap-plain,
                   amazonwebservices-original
                 ]
   cover: /assets/images/project_covers/cloud_cover.png
