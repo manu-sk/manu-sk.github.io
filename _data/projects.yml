@@ -40,16 +40,14 @@
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
 - id: 4
-  title: Data mapping strategy
-  url: https://levytsroman.github.io/shootThingsGame/
-  github_url: https://github.com/LevytsRoman/shootThingsGame
-  description: A small javaScript browser game, featuring a red plane (player) and an unhealthy onslaught of enemy planes flying over a pictureque rendering of my favorite planet (Earth) in MS Paint.
+  title: A Data mapping strategy for parallel data mining nodes in grid connected to a storage cloud
+  description: An architecute to reduce the computation time to process data by distributing tasks to multiple systems. We also built a private storage cloud to store the data and the results from scratch to ensure high availability of the data.
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain
+                  Hadoop - MapReduce,
+                  HTML, JavaScript,
+                  OpenStack to build storage cloud
                 ]
-  cover: /assets/images/project_covers/shoot-things-game-cover.png
+  cover: /assets/images/project_covers/cloud.jpg
   images: [
     '/assets/images/project_covers/shoot-things-game-cover.png'
   ]
