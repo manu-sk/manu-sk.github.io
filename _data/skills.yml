@@ -1,64 +1,40 @@
-- name: web
+- name: Development Tools
   skills:
-    - class: html5-plain
-      skill_name: HTML5
-    - class: css3-plain
-      skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
-    - class: bootstrap-plain
-      skill_name: Bootstrap
-    - class: jquery-plain
-      skill_name: jQuery
-
-- name: machine learning
+    - class: pycharm-original
+      skill_name: PyCharm
+    - class: visualstudio-plain
+      skill_name: Visual Studio
+    - class: android-plain
+      skill_name: Android Studio
+    - class: jupyter-plain
+      skill_name: Jupyter
+    
+- name: Operating Systems
   skills:
-    - class: machinelearning-plain
-      skill: Machine Learning
-    - class: googlecloud-original
-      skill: Cloud Computing    
+    - class: linux-plain
+      skill_name: Linux
+    - class: windows8-original
+      skill_name: Windows
+    - class: ubuntu-plain
+      skill_name: Ubuntu
+    
+- name: Technical Skills
+  skills:
+      skill_name: Machine Learning
+      skill_name: Deep Learning
+      skill_name: Numpy
+      skill_name: Pandas
+      skill_name: Scikit-Learn
+      skill_name: Federated ML   
       
 - name: languages
   skills:
-    - class: javascript-plain
-      skill_name: JavaScript
     - class: python-plain
       skill_name: Python
-    - class: ruby-plain
-      skill_name: Ruby
-
-- name: databases
-  skills:
-    - class: postgresql-plain
-      skill_name: Postgresql
-    - class: mongodb-plain
-      skill_name: MongoDB
-    - class: mysql-plain
-      skill_name: MySQL
-
-- name: frontend frameworks
-  skills:
-    - class: bootstrap-plain
-      skill_name: BootStrap
-    - class: react-plain
-      skill_name: React
-    - class: angularjs-plain
-      skill_name: Angular
-    - class: vuejs-plain
-      skill_name: Vue
-    - class: jekyll-plain
-      skill_name: Jekyll
-
-- name: backend frameworks
-  skills:
-    - class: rails-plain
-      skill_name: Ruby-on-Rails
-    - class: express-original
-      skill_name: Express
-    - class: nodejs-plain
-      skill_name: NodeJS
-    - class: django-plain
-      skill_name: Django
+    - class: java-plain
+      skill_name: Java
+    - class: c-plain
+      skill_name: C
 
 - name: devops
   skills:
@@ -68,19 +44,39 @@
       skill_name: GitHub
     - class: jenkins-original
       skill_name: Jenkins
-    - class: docker-plain
-      skill_name: Docker
-      class: aws-plain
+    - class: amazonwebservices-original
       skill_name: AWS
 
+- name: web
+  skills:
+    - class: flask-original
+      skill_name: Flask
+    - class: html5-plain
+      skill_name: HTML5
+    - class: css3-plain
+      skill_name: CSS3
+    - class: sass-plain
+      skill_name: SASS
+    - class: bootstrap-plain
+      skill_name: Bootstrap
+
+- name: frontend frameworks
+  skills:
+    - class: bootstrap-plain
+      skill_name: BootStrap
+    - class: react-plain
+      skill_name: React
+
+- name: databases
+  skills:
+    - class: postgresql-plain
+      skill_name: Postgresql
+    - class: mysql-plain
+      skill_name: MySQL    
+      
 - name: testing
   skills:
     - class: selenium-plain
       skill_name: Selenium
     - class: uft-plain
       skill_name: UFT
-
-- name: mobile
-  skills:
-    - class: react-original
-      skill_name: React Native
