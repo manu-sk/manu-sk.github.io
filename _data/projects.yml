@@ -47,7 +47,7 @@
                   HTML, JavaScript,
                   OpenStack to build storage cloud
                 ]
-  cover: /assets/images/project_covers/cloud:cover.png
+  cover: /assets/images/project_covers/cloud_cover.png
   images: [
     '/assets/images/project_images/cloud.PNG'
   ]
