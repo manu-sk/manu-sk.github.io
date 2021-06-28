@@ -43,8 +43,8 @@
   title: A Data mapping strategy for parallel data mining nodes in grid connected to a storage cloud
   description: An architecute to reduce the computation time to process data by distributing tasks to multiple systems. We also built a private storage cloud to store the data and the results from scratch to ensure high availability of the data.
   technologies: [
-                  Cloud Computing,
-                  Python,
+                  python-plain,
+                  cloud-plain,
                   html5-plain
                 ]
   cover: /assets/images/project_covers/cloud_cover.png
