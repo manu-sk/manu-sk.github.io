@@ -6,9 +6,9 @@
                CLAHE technique is used before applying MSER on the dataset
   technologies: [
                   python-plain,
-                  tensorflow-plain
+                  tensorflow-plain,
                   MSER and CLAHE,
-                  pytorch-plain,
+                  pytorch-plain
                 ]
   cover: /assets/images/project_covers/digit-rec-cover.jpg
   images: [
@@ -22,9 +22,9 @@
   description: Identifying Fraud when it comes to finance domain is diffucult by using traditional machine learning techniques. This thesis deals with identifying frauds in FinTech domain using federated machine learning. 
   technologies: [
                   python-plain,
-                  tensorflow-original
-                  keras-plain
-                  numpy
+                  tensorflow-original,
+                  keras-plain,
+                  numpy,
                   federated ML
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
