@@ -18,7 +18,7 @@
   ]
 
 - id: 3
-  title: Thesis: Federated Machine Learning for Fraud Detection
+  title: Thesis- Federated Machine Learning for Fraud Detection
   description: Identifying Fraud when it comes to finance domain is diffucult by using traditional machine learning techniques. This thesis deals with identifying frauds in FinTech domain using federated machine learning. 
   technologies: [
                   python-plain,
