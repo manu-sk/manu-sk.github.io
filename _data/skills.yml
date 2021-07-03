@@ -7,8 +7,10 @@
      - skill_name: Scikit-Learn
      - skill_name: Federated ML 
      
-- name: Development Tools
+- name: Development Tools and Frameworks
   skills:
+    - class: tensorflow-original
+      skill_name: TensorFlow
     - class: pycharm-plain
       skill_name: PyCharm
     - class: visualstudio-plain
@@ -17,6 +19,7 @@
       skill_name: Android Studio
     - class: jupyter-original
       skill_name: Jupyter
+    - skill_name: Pytorch
     
 - name: Operating Systems
   skills:
