@@ -1,4 +1,4 @@
-- id: 2
+- id: 1
   title: Deep Digit Recognition
   description: This project deals with detecting digits from natural scene image using  neural networks
                It is implemented in keras framework with tensorflow backend and opencv.
@@ -17,14 +17,12 @@
     '/assets/images/project_images/deep-digit/3.png'
   ]
 
-- id: 3
+- id: 2
   title: Thesis: Federated Machine Learning for Fraud Detection
-  url: https://dbc-hackoverflow.herokuapp.com/
-  github_url: https://github.com/wvicioso/hackoverflow
   description: Identifying Fraud when it comes to finance domain is diffucult by using traditional machine learning techniques. This thesis deals with identifying frauds in FinTech domain using federated machine learning. 
   technologies: [
                   python-plain,
-                  tensorflow-plain
+                  tensorflow-original
                   keras-plain
                   numpy
                   federated ML
@@ -33,7 +31,7 @@
   images: [
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
-- id: 4
+- id: 3
   title: A Data mapping strategy for parallel data mining nodes in grid connected to a storage cloud
   description: An architecute to reduce the computation time to process data by distributing tasks to multiple systems. We also built a private storage cloud to store the data and the results from scratch to ensure high availability of the data.
   technologies: [
