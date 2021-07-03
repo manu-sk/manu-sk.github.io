@@ -10,7 +10,7 @@
                   MSER and CLAHE,
                   pytorch-plain
                 ]
-  cover: /assets/images/project_covers/digitrecc1.PNG
+  cover: /assets/images/project_covers/digit-rec-cover.PNG
   images: [
     '/assets/images/project_images/deep-digit/1.png',
     '/assets/images/project_images/deep-digit/2.png',
