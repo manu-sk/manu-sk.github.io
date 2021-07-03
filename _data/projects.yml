@@ -1,39 +1,33 @@
 - id: 2
   title: Deep Digit Recognition
-  url: https://tic-or-treat.herokuapp.com/
-  github_url: https://github.com/nyc-bobolinks-2016/tic_or_treat
-  description: A simple tic-tac-toe game allowing both registered and unregistered users to play against a computer. Logged-in users have the benefit of viewing various statistics about their past games and resuming unfinished games.
+  description: This project deals with detecting digits from natural scene image using  neural networks
+               It is implemented in keras framework with tensorflow backend and opencv.
+               The detector network determines whether the region proposed by the MSER algorithm is a digit or not using CNN classifier.
+               CLAHE technique is used before applying MSER on the dataset
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark
-                  javascript-plain,
-                  react-original,
-                  ruby-plain,
-                  rails-plain,
-                  postgresql-plain,
-                  heroku-original
+                  python-plain,
+                  tensorflow-plain
+                  MSER and CLAHE,
+                  pytorch-plain,
                 ]
-  cover: /assets/images/project_covers/tic-tac-toe-cover.jpg
+  cover: /assets/images/project_covers/deep-digit-cover.jpg
   images: [
-    '/assets/images/project_images/tic_tac_toe/tictactoe1.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe2.png',
-    '/assets/images/project_images/tic_tac_toe/tictactoe3.png'
+    '/assets/images/project_images/deep-digit/1.png',
+    '/assets/images/project_images/deep-digit/2.png',
+    '/assets/images/project_images/deep-digit/3.png'
   ]
 
 - id: 3
-  title: Federated Machine Learning for Fraud Detection
+  title: Thesis: Federated Machine Learning for Fraud Detection
   url: https://dbc-hackoverflow.herokuapp.com/
   github_url: https://github.com/wvicioso/hackoverflow
-  description: A standard discussion board app that's an attempt at a very simple version of the popular programming platform <a href='stackoverflow.com'>StackOverflow</a>. It allows users to ask questions, give answers and make comments as well as vote up or down on each of the above.
+  description: Identifying Fraud when it comes to finance domain is diffucult by using traditional machine learning techniques. This thesis deals with identifying frauds in FinTech domain using federated machine learning. 
   technologies: [
-                  html5-plain,
-                  css3-plain-wordmark,
-                  javascript-plain,
-                  ruby-plain,
-                  sinatra-plain,
-                  postgresql-plain,
-                  heroku-original,
-                  materialize-plain
+                  python-plain,
+                  tensorflow-plain
+                  keras-plain
+                  numpy
+                  federated ML
                 ]
   cover: /assets/images/project_covers/hack-overflow-cover.png
   images: [
