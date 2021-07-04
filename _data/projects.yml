@@ -13,9 +13,10 @@
                 ]
   cover: /assets/images/project_covers/digit-rec-cover.png
   images: [
-    '/assets/images/project_images/deep-digit/1.png',
-    '/assets/images/project_images/deep-digit/2.png',
-    '/assets/images/project_images/deep-digit/3.png'
+    '/assets/images/project_images/deep-digit/digit-rec-1.PNG',
+    '/assets/images/project_images/deep-digit/digit-rec-2.PNG',
+    '/assets/images/project_images/deep-digit/digit-rec-3.PNG',
+    '/assets/images/project_images/deep-digit/digit-rec-4.PNG'
   ]
 
 - id: 3
