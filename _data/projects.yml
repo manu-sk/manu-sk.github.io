@@ -31,7 +31,7 @@
                 ]
   cover: /assets/images/project_covers/fraud-fin-cover.jpg
   images: [
-    '/assets/images/project_covers/hack-overflow-cover.png'
+    '/assets/images/project_images/federated-ml/federated-ml.jpg'
   ]
 - id: 4
   title: A Data mapping strategy for parallel data mining nodes in grid connected to a storage cloud
