@@ -5,10 +5,11 @@
                The detector network determines whether the region proposed by the MSER algorithm is a digit or not using CNN classifier.
                CLAHE technique is used before applying MSER on the dataset
   technologies: [
-                  python-plain,
-                  tensorflow-plain,
-                  MSER and CLAHE,
-                  pytorch-plain
+                  Python,
+                  Tensorflow,
+                  Keras,
+                  OpenCV,
+                  Pandas and Numpy
                 ]
   cover: /assets/images/project_covers/digit-rec-cover.png
   images: [
