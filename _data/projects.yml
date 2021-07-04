@@ -29,7 +29,7 @@
                   Scikit-Learn,
                   Federated ML
                 ]
-  cover: /assets/images/project_covers/fraud-cover.jpg
+  cover: /assets/images/project_covers/fraud-fin-cover.jpg
   images: [
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
