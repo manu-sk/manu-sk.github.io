@@ -8,9 +8,7 @@
      - skill_name: Federated ML 
      
 - name: Development Tools and Frameworks
-  skills:
-    - class: tensorflow-original
-      skill_name: TensorFlow
+  skills:    
     - class: pycharm-plain
       skill_name: PyCharm
     - class: visualstudio-plain
@@ -19,6 +17,8 @@
       skill_name: Android Studio
     - class: jupyter-original
       skill_name: Jupyter
+    - class: tensorflow-original
+      skill_name: TensorFlow
     - skill_name: Pytorch
     
 - name: Operating Systems
@@ -45,15 +45,13 @@
       skill_name: Git
     - class: github-plain
       skill_name: GitHub
-    - class: jenkins-original
-      skill_name: Jenkins
     - class: amazonwebservices-original
       skill_name: AWS
+    - class: jenkins-original
+      skill_name: Jenkins
 
 - name: web
   skills:
-    - class: flask-plain
-      skill_name: Flask
     - class: html5-plain
       skill_name: HTML5
     - class: css3-plain
@@ -62,7 +60,9 @@
       skill_name: SASS
     - class: bootstrap-plain
       skill_name: Bootstrap
-
+    - class: flask-plain
+      skill_name: Flask
+      
 - name: databases
   skills:
     - class: postgresql-plain
