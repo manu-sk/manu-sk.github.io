@@ -43,7 +43,7 @@
                   bootstrap-plain,
                   amazonwebservices-original
                 ]
-  cover: /assets/images/project_covers/cloud_cover.png
+  cover: /assets/images/project_covers/cloud-cover.jpg
   images: [
     '/assets/images/project_images/cloud.PNG'
   ]
