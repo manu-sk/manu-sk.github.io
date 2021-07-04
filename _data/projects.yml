@@ -11,7 +11,7 @@
                   OpenCV,
                   Pandas and Numpy
                 ]
-  cover: /assets/images/project_covers/digit-rec-cover.png
+  cover: /assets/images/project_covers/digit-rec-cover.PNG
   images: [
     '/assets/images/project_images/deep-digit/digit-rec-1.PNG',
     '/assets/images/project_images/deep-digit/digit-rec-2.PNG',
