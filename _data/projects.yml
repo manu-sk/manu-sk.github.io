@@ -23,13 +23,13 @@
   title: Thesis- Federated Machine Learning for Fraud Detection
   description: Identifying Fraud when it comes to finance domain is diffucult by using traditional machine learning techniques. This thesis deals with identifying frauds in FinTech domain using federated machine learning. 
   technologies: [
-                  python-plain,
-                  tensorflow-original,
-                  keras-plain,
-                  numpy,
-                  federated ML
+                  Python,
+                  Tensorflow,
+                  Pytorch,
+                  Scikit-Learn,
+                  Federated ML
                 ]
-  cover: /assets/images/project_covers/hack-overflow-cover.png
+  cover: /assets/images/project_covers/fraud-cover.jpg
   images: [
     '/assets/images/project_covers/hack-overflow-cover.png'
   ]
