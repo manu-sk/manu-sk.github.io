@@ -35,7 +35,7 @@
   ]
   
 - id: 3
-  title: Applied Data Science on COVID-19 Data With SIR Simulations
+  title: Applied Data Science on COVID-19 Data with SIR Simulations
   description: An interactive website in which we can get all information about covid growth, recovery, deaths and many more. Also this includes prediction model which estimates what will be the covid cases for next week for any selected country in the world.
   technologies: [
                   Python,
@@ -46,10 +46,10 @@
                 ]
   cover: /assets/images/project_covers/covid-website.jpg
   images: [
-    '/assets/images/project_images/covid-simulation/1.PNG',
-    '/assets/images/project_images/covid-simulation/2.PNG',
-    '/assets/images/project_images/covid-simulation/3.PNG',
-    '/assets/images/project_images/covid-simulation/4.PNG'
+    '/assets/images/project_images/covid-simulations/1.PNG',
+    '/assets/images/project_images/covid-simulations/2.PNG',
+    '/assets/images/project_images/covid-simulations/3.PNG',
+    '/assets/images/project_images/covid-simulations/4.PNG'
   ]
   
 - id: 4
