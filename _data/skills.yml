@@ -30,7 +30,7 @@
     - class: ubuntu-plain
       skill_name: Ubuntu
        
-- name: languages
+- name: Languages
   skills:
     - class: python-plain
       skill_name: Python
@@ -39,7 +39,7 @@
     - class: c-plain
       skill_name: C
 
-- name: devops
+- name: Devops Tools
   skills:
     - class: git-plain
       skill_name: Git
@@ -50,7 +50,7 @@
     - class: jenkins-original
       skill_name: Jenkins
 
-- name: web
+- name: Web
   skills:
     - class: html5-plain
       skill_name: HTML5
@@ -63,14 +63,14 @@
     - class: flask-plain
       skill_name: Flask
       
-- name: databases
+- name: Databases
   skills:
     - class: postgresql-plain
       skill_name: Postgresql
     - class: mysql-plain
       skill_name: MySQL    
       
-- name: testing
+- name: Testing
   skills:
     - class: selenium-plain
       skill_name: Selenium
