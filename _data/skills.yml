@@ -6,6 +6,7 @@
      - skill_name: Pandas
      - skill_name: Scikit-Learn
      - skill_name: Federated ML 
+     - skill_name: R
      
 - name: Development Tools and Frameworks
   skills:    
