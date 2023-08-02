@@ -1,9 +1,8 @@
 - id: 2
   title: Federated Learning for Fraud Detection (Master's Thesis)
-  description: Identifying Fraud when it comes to the finance domain is difficult by using traditional machine learning techniques because of the availability of the data, security reasons, privacy, etc. This thesis deals with identifying frauds in the FinTech domain using federated machine learning.
-  scope:
-    • Applied federated learning (FL) to identify frauds in the FinTech domain, addressing data availability, security, and privacy challenges.
-    • Compared various data sampling techniques, aggregation algorithms, and model performance in a federated learning environment, showcasing FL's potential for effective fraud detection while preserving data privacy and security.
+  description: Identifying fraud when it comes to the finance domain is difficult by using traditional machine learning techniques because of the availability of the data, security reasons, privacy, etc. This thesis deals with identifying frauds in the FinTech domain using federated machine learning.
+                • Applied federated learning (FL) to identify frauds in the FinTech domain, addressing data availability, security, and privacy challenges.
+                • Compared various data sampling techniques, aggregation algorithms, and model performance in a federated learning environment, showcasing FL's potential for effective fraud detection while preserving data privacy and security.
 
   technologies: [
                   Python,
