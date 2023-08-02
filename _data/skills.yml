@@ -10,55 +10,37 @@
      
 - name: Development Tools and Frameworks
   skills:    
-    - class: pycharm-plain
       skill_name: PyCharm
-    - class: visualstudio-plain
       skill_name: Visual Studio Code
-    - class: android-plain
       skill_name: Android Studio
-    - class: jupyter-original
       skill_name: Jupyter
-    - class: tensorflow-original
       skill_name: TensorFlow
     - skill_name: Pytorch
     
 - name: Operating Systems
   skills:
-    - class: linux-plain
       skill_name: Linux
-    - class: windows8-original
       skill_name: Windows
-    - class: ubuntu-plain
       skill_name: Ubuntu
        
 - name: Languages
   skills:
-    - class: python-plain
       skill_name: Python
-    - class: r-plain
       skill_name: R
       
 - name: DevOps Tools
   skills:
-    - class: git-plain
       skill_name: Git
-    - class: github-plain
       skill_name: GitHub
-    - class: amazonwebservices-original
-      skill_name: AWS
-    - class: jenkins-original
+      skill_name: Ansible
       skill_name: Jenkins
 
 - name: Web
   skills:
-    - class: django-plain
       skill_name: Django
-    - class: flask-plain
       skill_name: Flask 
       
 - name: Testing
   skills:
-    - class: selenium-plain
       skill_name: Selenium
-    - class: uft-plain
       skill_name: UFT
