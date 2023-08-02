@@ -1,6 +1,6 @@
 - id: 2
   title: Federated Learning for Fraud Detection (Master's Thesis)
-  description: Identifying fraud when it comes to the finance domain is difficult by using traditional machine learning techniques because of the availability of the data, security reasons, privacy, etc. This thesis deals with identifying frauds in the FinTech domain using federated machine learning. Scope 
+  description: Identifying fraud when it comes to the finance domain is difficult by using traditional machine learning techniques because of the availability of the data, security reasons, privacy, etc. This thesis deals with identifying frauds in the FinTech domain using federated machine learning. Scope of the thesis is 
                 1. Applied federated learning (FL) to identify frauds in the FinTech domain, addressing data availability, security, and privacy challenges.
                 2. Compared various data sampling techniques, aggregation algorithms, and model performance in a federated learning environment, showcasing FL's potential for effective fraud detection while preserving data privacy and security.
 
@@ -18,7 +18,7 @@
 
 - id: 2
   title: Deep Digit Recognition
-  description: This project deals with detecting digits from natural scene images using  neural networks. It is implemented in the Keras framework with TensorFlow backend and OpenCV. The detector network determines whether the region proposed by the MSER algorithm is a digit or not using the CNN classifier.The CLAHE technique is used before applying MSER to the dataset. Scope:         
+  description: This project deals with detecting digits from natural scene images using  neural networks. It is implemented in the Keras framework with TensorFlow backend and OpenCV. The detector network determines whether the region proposed by the MSER algorithm is a digit or not using the CNN classifier.The CLAHE technique is used before applying MSER to the dataset. Scope of the project is       
     1. Implemented a digit detection system using neural networks in the Keras framework with TensorFlow backend and OpenCV.
     2. Utilized the MSER algorithm and CNN classifier to detect digits from natural scene images, enhancing accuracy with the CLAHE technique applied to the dataset.
 
@@ -39,7 +39,7 @@
   
 - id: 3
   title: Applied Data Science on COVID-19 Data with SIR Simulations
-  description: An interactive website in which we can get all information about covid growth, recovery, deaths, and many more. Also, this includes a prediction model which estimates what will be the covid cases for next week for any selected country in the world. Scope: 
+  description: An interactive website in which we can get all information about covid growth, recovery, deaths, and many more. Also, this includes a prediction model which estimates what will be the covid cases for next week for any selected country in the world. Scope of the project is 
     1. Developed an interactive UI providing comprehensive COVID-19 statistics, growth, recovery, and death information.
     2. Implemented a sophisticated prediction model for estimating COVID-19 cases in the next week for selected countries, aiding informed decision-making and public health planning.
   technologies: [
@@ -59,7 +59,7 @@
   
 - id: 4
   title: A Data Mapping Strategy for Parallel Data Mining Nodes in Grid connected to a Storage Cloud
-  description: An architecture to reduce the computation time to process data by distributing tasks to multiple systems. We also built a private storage cloud to store the data and the results from scratch to ensure the high availability of the data. Scope:
+  description: An architecture to reduce the computation time to process data by distributing tasks to multiple systems. We also built a private storage cloud to store the data and the results from scratch to ensure the high availability of the data. Scope of the project is
     1. Created an efficient architecture to reduce data processing computation time through task distribution across multiple systems using a map-reduce mechanism.
     2. Developed a private storage cloud from scratch to ensure data availability and optimize system performance and reliability.
 
