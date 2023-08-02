@@ -58,7 +58,7 @@
   ]
   
 - id: 4
-  title: A Data Mapping Strategy for Parallel Data Mining Nodes in Grid connected to a Storage Cloud
+  title: A Data Mapping Strategy for Parallel Data Mining Nodes in Grid Connected to a Storage Cloud
   description: An architecture to reduce the computation time to process data by distributing tasks to multiple systems. We also built a private storage cloud to store the data and the results from scratch to ensure the high availability of the data. The scope of the project is
     1. Created an efficient architecture to reduce data processing computation time through task distribution across multiple systems using a map-reduce mechanism.
     2. Developed a private storage cloud from scratch to ensure data availability and optimize system performance and reliability.
