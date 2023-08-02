@@ -17,9 +17,14 @@
 title: Manu S.K
 email: "kashika24@gmail.com"
 description: >
-  Ambitious Machine Learning enthusiast and eager person to learn new technology. I am Passionate about programming. Interested in ML,AI and Cloud Computing.
+  Ambitious Machine Learning enthusiast and eager person to learn new technology. I am passionate about programming. Interested in ML,AI and Cloud Computing.
 about_me: >
-  My name is Manu S K. I am currently pursuing MSc. Computer Science at TU Kaiserslautern, Germany. My first specialization is Intelligent Systems and my second specialization is Software Engineering. Also, I am currently working as a Scientific student assistant at Fraunhofer ITWM in the field of federated machine learning
+  I am a results-driven software engineer with over 4 years of experience and a strong foundation in computer
+science principles and research. Skilled in developing and implementing machine learning frameworks and
+libraries. I have a proven track record of delivering successful projects for clients in the automobile and
+banking industries. My passion lies in artificial intelligence and deep learning, where I continuously seek to
+expand my knowledge and skills. I thrive in problem-solving and effectively collaborate with cross-functional
+teams to drive project success
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://manu-sk.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 linked_in_link: "https://www.linkedin.com/in/manu-s-k-1b373ba2/"
