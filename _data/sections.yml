@@ -7,12 +7,7 @@ projects:
 about:
   url: /about
   heading: Me
-  words: I am a results-driven software engineer with over 4 years of experience and a strong foundation in computer
-science principles and research. Skilled in developing and implementing machine learning frameworks and
-libraries. I have a proven track record of delivering successful projects for clients in the automobile and
-banking industries. My passion lies in artificial intelligence and deep learning, where I continuously seek to
-expand my knowledge and skills. I thrive in problem-solving and effectively collaborate with cross-functional
-teams to drive project success.
+  words: I am a results-driven software engineer with over 4 years of experience and a strong foundation in computer science principles and research. Skilled in developing and implementing machine learning frameworks and libraries. I have a proven track record of delivering successful projects for clients in the automobile and banking industries. My passion lies in artificial intelligence and deep learning, where I continuously seek to expand my knowledge and skills. I thrive in problem-solving and effectively collaborate with cross-functional teams to drive project success.
   class: m5 about
   border: about
 resume:
