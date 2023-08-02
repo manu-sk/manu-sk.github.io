@@ -10,37 +10,37 @@
      
 - name: Development Tools and Frameworks
   skills:    
-      skill_name: PyCharm
-      skill_name: Visual Studio Code
-      skill_name: Android Studio
-      skill_name: Jupyter
-      skill_name: TensorFlow
+    - skill_name: PyCharm
+    - skill_name: Visual Studio Code
+    - skill_name: Android Studio
+    - skill_name: Jupyter
+    - skill_name: TensorFlow
     - skill_name: Pytorch
     
 - name: Operating Systems
   skills:
-      skill_name: Linux
-      skill_name: Windows
-      skill_name: Ubuntu
+    - skill_name: Linux
+    - skill_name: Windows
+    - skill_name: Ubuntu
        
 - name: Languages
   skills:
-      skill_name: Python
-      skill_name: R
+    - skill_name: Python
+    - skill_name: R
       
 - name: DevOps Tools
   skills:
-      skill_name: Git
-      skill_name: GitHub
-      skill_name: Ansible
-      skill_name: Jenkins
+    - skill_name: Git
+    - skill_name: GitHub
+    - skill_name: Ansible
+    - skill_name: Jenkins
 
 - name: Web
   skills:
-      skill_name: Django
-      skill_name: Flask 
+    - skill_name: Django
+    - skill_name: Flask 
       
 - name: Testing
   skills:
-      skill_name: Selenium
-      skill_name: UFT
+    - skill_name: Selenium
+    - skill_name: UFT
