@@ -1,19 +1,21 @@
 projects:
   url: /projects
   heading: Projects
-  words: A list of projects and experiments
+  words: These are my non work related projects. For work related experience please refer to resume section.
   class: m7 projects
   border: projects
 about:
   url: /about
-  heading: Me
-  words: I am a results-driven software engineer with over 4 years of experience and a strong foundation in computer science principles and research. Skilled in implementing ML frameworks and libraries. I have a proven track record of delivering successful projects for clients in the automobile and banking industries. My passion lies in AI and DL, where I continuously seek to expand my knowledge and skills.
+  heading: About Me
+  words:  Hi, my name is Manu. I am an experienced project lead and senior machine learning engineer with over 5 years of expertise in
+developing and deploying machine learning applications. Adept at project management, team leadership, 
+and stakeholder collaboration to drive innovation and project success. Skilled in implementing ML frameworks and libraries. I have a proven track record of delivering successful projects for clients in the automobile and banking industries. My passion lies in AI and DL, where I continuously seek to expand my knowledge and skills.
   class: m5 about
   border: about
 resume:
   url: /resume
   heading: Resume
-  words: Check out or download my resume
+  words: Check out or download my resume in this section
   class: m6 algorithms
   border: algorithms
 contact:
