@@ -6,74 +6,41 @@
      - skill_name: Pandas
      - skill_name: Scikit-Learn
      - skill_name: Federated ML 
-     - skill_name: R
+     - skill_name: R-shiny
      
 - name: Development Tools and Frameworks
   skills:    
-    - class: pycharm-plain
-      skill_name: PyCharm
-    - class: visualstudio-plain
-      skill_name: Visual Studio
-    - class: android-plain
-      skill_name: Android Studio
-    - class: jupyter-original
-      skill_name: Jupyter
-    - class: tensorflow-original
-      skill_name: TensorFlow
+    - skill_name: PyCharm
+    - skill_name: Visual Studio Code
+    - skill_name: Android Studio
+    - skill_name: Jupyter
+    - skill_name: TensorFlow
     - skill_name: Pytorch
     
 - name: Operating Systems
   skills:
-    - class: linux-plain
-      skill_name: Linux
-    - class: windows8-original
-      skill_name: Windows
-    - class: ubuntu-plain
-      skill_name: Ubuntu
+    - skill_name: Linux
+    - skill_name: Windows
+    - skill_name: Ubuntu
        
 - name: Languages
   skills:
-    - class: python-plain
-      skill_name: Python
-    - class: java-plain
-      skill_name: Java
-    - class: c-plain
-      skill_name: C
-
-- name: Devops Tools
+    - skill_name: Python
+    - skill_name: R
+      
+- name: DevOps Tools
   skills:
-    - class: git-plain
-      skill_name: Git
-    - class: github-plain
-      skill_name: GitHub
-    - class: amazonwebservices-original
-      skill_name: AWS
-    - class: jenkins-original
-      skill_name: Jenkins
+    - skill_name: Git
+    - skill_name: GitHub
+    - skill_name: Ansible
+    - skill_name: Jenkins
 
 - name: Web
   skills:
-    - class: html5-plain
-      skill_name: HTML5
-    - class: css3-plain
-      skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
-    - class: bootstrap-plain
-      skill_name: Bootstrap
-    - class: flask-plain
-      skill_name: Flask
-      
-- name: Databases
-  skills:
-    - class: postgresql-plain
-      skill_name: Postgresql
-    - class: mysql-plain
-      skill_name: MySQL    
+    - skill_name: Django
+    - skill_name: Flask 
       
 - name: Testing
   skills:
-    - class: selenium-plain
-      skill_name: Selenium
-    - class: uft-plain
-      skill_name: UFT
+    - skill_name: Selenium
+    - skill_name: UFT
