@@ -7,7 +7,7 @@ projects:
 about:
   url: /about
   heading: About Me
-  words:  Hi, my name is Manu. I am a results-driven project manager and senior machine learning engineer with nearly 6 years of experience in developing and deploying machine learning applications. Skilled in data science, deep learning, and ML frameworks with strong data analysis, manipulation, and visualization abilities. Proven track record of delivering impactful ML solutions across various domains, including financial markets, fraud detection,  forecasting, and the automobile industry. Proficient in Agile methodologies, DevOps, CI/CD, and version  control. Strong project management, team leadership, and stakeholder collaboration skills to drive innovation and success.
+  words:  Hi, my name is Manu. A results-driven project manager and senior ML engineer with nearly 6 years of experience in developing and deploying ML applications. Skilled in data science, deep learning, and ML frameworks with strong data analysis, manipulation, and visualization abilities. Proven track record of delivering impactful ML solutions across various domains, including financial markets, fraud detection,  forecasting, and the automobile industry. Proficient in Agile methodologies, DevOps, CI/CD, and version  control. Strong project management, team leadership, and stakeholder collaboration skills to drive innovation and success.
   class: m5 about
   border: about
 resume:
